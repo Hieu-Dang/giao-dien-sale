@@ -1,0 +1,16 @@
+.container{
+ background-color: #ccc;
+}
+#box{
+	width: 1200px;
+	background-color: white;
+	margin: auto;
+}
+#select{
+	width: 200px;
+	float: left;
+}
+#icon{
+	width: 500px;
+	float: right;
+}
