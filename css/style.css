@@ -17,7 +17,6 @@
 }
 #top-page{
 	min-height: 30px;
-	border-bottom: 1px solid black;
 }
 #main-nav ul li{
 	display: inline-block;
@@ -34,3 +33,23 @@
 
 	
 }	
+#main-nav{
+	border-bottom: 1px solid black;
+}
+
+#body-page{
+	min-height: 500px;
+	background-color: #fff;
+	margin-top: 20px;
+}
+section#left{
+	width: 700px;
+	padding: 5px; 
+	float: left;
+
+}
+aside{
+	padding: 5px;
+	width: 280px;
+	float: right;
+}
