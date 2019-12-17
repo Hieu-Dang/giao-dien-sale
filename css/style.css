@@ -2,15 +2,35 @@
  background-color: #ccc;
 }
 #box{
-	width: 1200px;
-	background-color: white;
+	width: 1000px;
+	background-color: #ddd;
 	margin: auto;
+	min-height: 100px;
 }
 #select{
 	width: 200px;
 	float: left;
 }
 #icon{
-	width: 500px;
+	width: 300px;
 	float: right;
 }
+#top-page{
+	min-height: 30px;
+	border-bottom: 1px solid black;
+}
+#main-nav ul li{
+	display: inline-block;
+}
+#main-nav ul li a{
+	font-family: Arial;
+	text-decoration: none;
+	padding-right: 10px;
+	display: block;
+	color: black;
+	text-transform: uppercase;
+	font-style: bold;
+	font-size: 15px;
+
+	
+}	
